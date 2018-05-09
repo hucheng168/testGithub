@@ -1,0 +1,55 @@
+{
+  "groups": [{
+    "name": "db.jdbc",
+    "type": "common.DataSource",
+    "sourceType": "common.DataSource"
+  }],
+  "properties": [
+    {
+      "name": "db.jdbc.driver-class-name",
+      "type": "java.lang.String",
+      "sourceType": "common.DataSource"
+    },
+    {
+      "name": "db.jdbc.inital-size",
+      "type": "java.lang.String",
+      "sourceType": "common.DataSource"
+    },
+    {
+      "name": "db.jdbc.max-active",
+      "type": "java.lang.String",
+      "sourceType": "common.DataSource"
+    },
+    {
+      "name": "db.jdbc.max-idle",
+      "type": "java.lang.String",
+      "sourceType": "common.DataSource"
+    },
+    {
+      "name": "db.jdbc.max-wait",
+      "type": "java.lang.String",
+      "sourceType": "common.DataSource"
+    },
+    {
+      "name": "db.jdbc.min-idle",
+      "type": "java.lang.String",
+      "sourceType": "common.DataSource"
+    },
+    {
+      "name": "db.jdbc.password",
+      "type": "java.lang.String",
+      "sourceType": "common.DataSource"
+    },
+    {
+      "name": "db.jdbc.url",
+      "type": "java.lang.String",
+      "sourceType": "common.DataSource"
+    },
+    {
+      "name": "db.jdbc.user-name",
+      "type": "java.lang.String",
+      "sourceType": "common.DataSource"
+    }
+  ],
+  "hints": []
+}

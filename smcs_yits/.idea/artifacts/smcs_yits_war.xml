@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="smcs_yits:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="smcs_yits.war">
+      <element id="artifact" artifact-name="smcs_yits:war exploded" />
+    </root>
+  </artifact>
+</component>
